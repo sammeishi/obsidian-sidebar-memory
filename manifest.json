@@ -1,0 +1,11 @@
+{
+	"id": "sidebar-memory",
+	"name": "Sidebar Memory",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Remembers the sidebar open/close state for each note and restores it automatically when you switch back.",
+	"author": "sam",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}

@@ -1,1 +1,3 @@
-# obsidian-sidebar-memory
+# 侧边栏记忆
+
+记住每一个文章的侧边栏打开关闭状态。
